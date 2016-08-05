@@ -1,0 +1,18 @@
+{
+  "name": "textmate-active4d-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Textmate tango-in-twilight theme for Atom",
+  "keywords": [
+    "syntax",
+    "theme",
+    "textmate",
+    "tango-in-twilight"
+  ],
+  "repository": "https://github.com/phthhieu/textmate-tango-in-twilight-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
+
